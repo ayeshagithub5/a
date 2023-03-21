@@ -1,0 +1,19 @@
+* {
+     margin: 60px;
+     padding: 0px;
+}
+.links{
+    list-style: none;
+    display: list-item;
+    background-color: brown;
+    height: 160px;
+    justify-content:center;
+    align-items: center;
+}
+.links li{
+    margin:10px 0px;
+}
+a {
+    text-decoration: none;
+    color:white;
+}

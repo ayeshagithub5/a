@@ -1,0 +1,16 @@
+h1{
+    background-color: red;
+}
+h1{
+ text-align: center;
+}
+p{
+    background-color: green;
+}
+p{
+    color: blue;
+}
+.creating{
+    font-size: large;
+    font-weight: 800;
+}
